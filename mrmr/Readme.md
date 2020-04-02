@@ -20,3 +20,5 @@ mrmr -i <dataset> -t <threshold> [optional arguments]
 
 example: mrmr_win32.exe -i gene.csv -t 0 -n 400 -m MIQ -s 2000 -v 20000
 
+note: data must be a csv file with samples as rows and features as columns
+
